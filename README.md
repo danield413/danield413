@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
-<h3 align="left">A passionate frontend developer from Colombia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danield413" alt="danield413" /> </p>
+<h3 align="left">A passionate developer and student from Colombia</h3>
 
 <h3> - 🌱 I’m currently learning <strong>React</strong> </h3>
 
