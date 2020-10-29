@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
-<h3 align="left">A passionate developer and student from Colombia</h3>
 
 <h3> - 🌱 I’m currently learning <strong>React</strong> </h3>
 
