@@ -6,19 +6,19 @@
 
 <hr/>
 
-<img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" alt="React js" width="60" heigth="60"/>
+<img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="React js" height="60"/>
 <img src="https://img.icons8.com/fluency/344/node-js.png" alt="Node js" width="60" height="60"/>
 <img src="https://img.icons8.com/color/344/vue-js.png" alt="js" height="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="js" width="60" height="60"/>
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="js"  height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="js" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png
+<img src="https://i.ytimg.com/vi/Tn6QYliFBcs/maxresdefault.jpg" alt="js" height="60" />
+<img src="https://graphql.org/img/og-image.png"
 " alt="js"  height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="js"  height="60"/>
 <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="js"  height="60"/>
-<img src="https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png" alt="js"  height="60"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170944.png" alt="js"  height="60"/>
+<img src="https://www.pngitem.com/pimgs/m/275-2750490_apollo-logo-apollo-js-hd-png-download.png" alt="js"  height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="js"  height="60"/>
 <hr />
 
 <h4 align="center"> Never stop learning! </h4>
