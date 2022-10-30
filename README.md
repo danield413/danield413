@@ -22,12 +22,3 @@
 <hr />
 
 <h4 align="center"> Never stop learning! </h4>
-
-<div style="margin-top: 30px; float: right; margin-right: 40px; display:flex;">
-<a style="margin-right: 10px" href="https://www.linkedin.com/in/daniel-d%C3%ADaz-castro-556104207/" target="_blank">
-    <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659544461~hmac=27b9aaf4f9fe06dbed4538481f7f2e94" width="60" />
-</a>
-<a href="https://danieldiaz.vercel.app" target="_blank">
-    <img src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059997.png?token=exp=1659544984~hmac=264ca3e990f586ed6f7ca89ac6d33797" width="60" />
-</a>
-</div>
