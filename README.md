@@ -22,3 +22,6 @@
 <hr />
 
 <h4 align="center"> Never stop learning! </h4>
+
+<a href="https://www.linkedin.com/in/daniel-d%C3%ADaz-556104207/" target="_blank">LinkedIn</a>
+                                                                                 
