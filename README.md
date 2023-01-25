@@ -19,6 +19,7 @@
 <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="js"  height="60"/>
 <img src="https://www.apollographql.com/apollo-home.jpg" alt="js"  height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="js" height="60" />
+<img src="https://miro.medium.com/max/3300/1*ROtQY0XW1itY-76_ufVHww.png" alt="" height="60" />
 <hr />
 
 <h4 align="center"> Never stop learning! </h4>
