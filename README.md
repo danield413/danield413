@@ -17,7 +17,7 @@
 <img src="https://graphql.org/img/og-image.png" alt="js"  height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="js"  height="60"/>
 <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="js"  height="60"/>
-<img src="https://www.apollographql.com/apollo-home.jpg" alt="js"  height="60"/>
+<img src="https://www.apollographql.com/apollo-home.jpg" alt="apollo"  height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="js" height="60" />
 <img src="https://miro.medium.com/max/850/1*kCXAQpCAX2PGtWAjVKEUow.jpeg" alt="" height="60" />
 <hr />
@@ -25,5 +25,6 @@
 <h4 align="center"> Never stop learning! </h4>
 
 <a href="https://www.linkedin.com/in/danieldiaz413/" target="_blank">LinkedIn</a>
+<br />
 <a href="https://danieldiaz.vercel.app" target="_blank">Portafolio</a>
                                                                                  
