@@ -17,7 +17,7 @@
 <img src="https://graphql.org/img/og-image.png" alt="js"  height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="js"  height="60"/>
 <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="js"  height="60"/>
-<img src="https://www.apollographql.com/apollo-home.jpg" alt="apollo"  height="60"/>
+<img src="https://spin.atomicobject.com/wp-content/uploads/GraphQL-Apollo.jpg" alt="apollo"  height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="js" height="60" />
 <img src="https://miro.medium.com/max/850/1*kCXAQpCAX2PGtWAjVKEUow.jpeg" alt="" height="60" />
 <hr />
