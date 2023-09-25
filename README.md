@@ -14,8 +14,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="js" width="60" height="60"/>
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="js"  height="60"/>
 <img src="https://i.ytimg.com/vi/Tn6QYliFBcs/maxresdefault.jpg" alt="js" height="60" />
-<img src="https://graphql.org/img/og-image.png"
-" alt="js"  height="60"/>
+<img src="https://graphql.org/img/og-image.png" alt="js"  height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="js"  height="60"/>
 <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="js"  height="60"/>
 <img src="https://www.apollographql.com/apollo-home.jpg" alt="js"  height="60"/>
