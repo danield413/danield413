@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
-<h3 align="center">A passionate frontend developer Colombia</h3>
+<h3 align="center">A fullstack developer</h3>
  
 <p> <strong> Some technologies that I usually use: <strong>
 </p>
