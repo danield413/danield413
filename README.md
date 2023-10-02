@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
 <h3 align="center">A passionate frontend developer Colombia</h3>
  
-<p> <strong> Actualmente estas tecnologías son mis favoritas! <strong>
+<p> <strong> Some technologies that I usually use: <strong>
 </p>
 
 <hr/>
