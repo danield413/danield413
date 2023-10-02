@@ -35,8 +35,4 @@
 <hr />
 
 <h4 align="center"> Never stop learning! </h4>
-
-<a href="https://www.linkedin.com/in/danieldiaz413/" target="_blank">LinkedIn</a>
-<br />
-<a href="https://danieldiaz.vercel.app" target="_blank">Portafolio</a>
                                                                                  
