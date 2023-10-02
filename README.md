@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
 <h3 align="center">A fullstack developer</h3>
+
+- 👨‍💻 All of my projects are available at [https://danieldiaz.vercel.app](https://danieldiaz.vercel.app)
+
+- 💬 Ask me about **React, Next.js, Vue.js, Angular, Node, Express, MongoDB, MySQL**
+ 
+  
  
 <p> <strong> Some technologies that I usually use: <strong>
 </p>
