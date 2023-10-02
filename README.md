@@ -1,5 +1,5 @@
-<h3 align="center"> ¡Hola, soy Daniel Díaz! 👨🏼‍💻 </h3>
-<p align="center"> Un simple <strong>Desarrollador web.</strong> </p>
+<h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
+<h3 align="center">A passionate frontend developer Colombia</h3>
  
 <p> <strong> Actualmente estas tecnologías son mis favoritas! <strong>
 </p>
@@ -20,6 +20,9 @@
 <img src="https://flaviocopes.com/images/apollo/logo.png" alt="apo" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="js" height="60" />
 <img src="https://miro.medium.com/max/850/1*kCXAQpCAX2PGtWAjVKEUow.jpeg" alt="" height="60" />
+<hr />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danield413&" alt="danield413" /></p>
+
 <hr />
 
 <h4 align="center"> Never stop learning! </h4>
