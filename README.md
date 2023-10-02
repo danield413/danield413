@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
-<h3 align="center">A fullstack Developer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://danieldiaz.vercel.app](https://danieldiaz.vercel.app)
 
