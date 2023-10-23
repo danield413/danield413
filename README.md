@@ -29,6 +29,9 @@
 <img src="https://flaviocopes.com/images/apollo/logo.png" alt="apo" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="js" height="60" />
 <img src="https://miro.medium.com/max/850/1*kCXAQpCAX2PGtWAjVKEUow.jpeg" alt="" height="60" />
+<img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" alt="" height="60" />
+<img src="https://sujanbyanjankar.com.np/wp-content/uploads/2023/06/mysql-ar21-1024x512.png" alt="" height="60" />
+
 <hr />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danield413&" alt="danield413" /></p>
 
