@@ -33,7 +33,7 @@
 <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2023/06/mysql-ar21-1024x512.png" alt="" height="60" />
 
 <hr />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danield413&" alt="danield413" /></p>
+
 <img src="https://api.githubtrends.io/user/svg/danield413/langs?time_range=one_year&include_private=True&theme=dark" />
 
 <hr />
