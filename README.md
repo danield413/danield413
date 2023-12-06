@@ -34,6 +34,7 @@
 
 <hr />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danield413&" alt="danield413" /></p>
+<img src="https://api.githubtrends.io/user/svg/danield413/langs?time_range=one_year&theme=dark" />
 
 <hr />
 
