@@ -18,7 +18,7 @@
 <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="React js" height="60"/>
 <img src="https://img.icons8.com/fluency/344/node-js.png" alt="Node js" width="60" height="60"/>
 <img src="https://img.icons8.com/color/344/vue-js.png" alt="js" height="60"/>
-<img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/the-seo-guide-to-angular.png?tx=w_3840,q_auto" height="60" />
+<img src="https://i.ytimg.com/vi/Wjj8fluz6rk/maxresdefault.jpg" height="60" />
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="js" width="60" height="60"/>
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="js"  height="60"/>
