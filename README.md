@@ -1,42 +1,37 @@
-<h1 align="center">Hi 👋, I'm Daniel Díaz</h1>
-<h3 align="center">A Fullstack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://danieldiaz.vercel.app](https://danieldiaz.vercel.app)
 
-- 💬 Ask me about **React, Next.js, Vue.js, Angular, Node, Express, MongoDB, MySQL**
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danieldiaz413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danieldiaz413" height="30" width="40" /></a>
-</p>
- 
-<p> <strong> Some technologies that I usually use: <strong>
-</p>
+# Hi, I'm Daniel Díaz! 👋
 
-<hr/>
 
-<img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="React js" height="60" />
-<img src="https://img.icons8.com/fluency/344/node-js.png" alt="Node js" width="60" height="60"/>
-<img src="https://img.icons8.com/color/344/vue-js.png" alt="js" height="60"/>
-<img src="https://i.ytimg.com/vi/Wjj8fluz6rk/maxresdefault.jpg" height="60" style="border-radius: 10px;"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="60" height="60" style="border-radius: 10px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="js" width="60" height="60"/>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="js"  height="60" style="border-radius: 10px;"/>
-<img src="https://i.ytimg.com/vi/Tn6QYliFBcs/maxresdefault.jpg" alt="js" height="60" />
-<img src="https://graphql.org/img/og-image.png" alt="js"  height="60" style="border-radius: 10px;"/>
-<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="js"  height="60"/>
-<img src="https://redux.js.org/img/redux-logo-landscape.png" alt="js"  height="60" style="border-radius: 10px;"/>
-<img src="https://flaviocopes.com/images/apollo/logo.png" alt="apo" height="60" style="border-radius: 10px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" alt="js" height="60" style="border-radius: 10px;"/>
-<img src="https://miro.medium.com/max/850/1*kCXAQpCAX2PGtWAjVKEUow.jpeg" alt="" height="60" style="border-radius: 10px;"/>
-<img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" alt="" height="60" style="border-radius: 10px;"/>
-<img src="https://sujanbyanjankar.com.np/wp-content/uploads/2023/06/mysql-ar21-1024x512.png" alt="" height="60" style="border-radius: 10px;"/>
+## 🚀 About Me
+I'm a Full-Stack Developer who really enjoys writing code!
 
-<hr />
+I love JavaScript and TypeScript technologies, especially React JS and Next JS ⚛🚀 and Node JS, Express JS and Nest JS.
 
-<img src="https://api.githubtrends.io/user/svg/danield413/langs?time_range=one_year&include_private=True&theme=dark" />
+I started writing code in 2018 and have a few years of experience working as a freelancer for clients and companies helping them achieve their goals by using software solutions.
 
-<hr />
 
-<h4 align="center"> Never stop learning! </h4>
-                                                                                 
+
+
+## 🔗 Links
+
+#### My web portfolio.
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danieldiaz.vercel.app/)
+
+#### Connect with me on LinkedIn
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
+
+## 🛠 Skills
+
+Technologies that I know:
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,next,nodejs,apollo,graphql,express,nestjs,redux,linux,mongodb,mysql,postgres,aws,vue,angular,gcp,git,vercel,netlify,jest,py,prisma,heroku,electron,docker&perline=7)](https://skillicons.dev)
+
+#### Never stop learning!
+
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=danield413&theme=dark&hide_border=true)
