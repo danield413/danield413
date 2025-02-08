@@ -21,7 +21,7 @@ I started writing code in 2018 and have a few years of experience working as a f
 
 #### Connect with me on LinkedIn
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldiaz413/)
 
 
 
