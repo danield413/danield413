@@ -29,7 +29,7 @@ I started writing code in 2018 and have a few years of experience working as a f
 
 Technologies that I know:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,next,nodejs,apollo,graphql,express,nestjs,redux,linux,mongodb,mysql,postgres,aws,vue,angular,gcp,git,vercel,netlify,jest,py,prisma,heroku,electron,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,next,nodejs,apollo,graphql,express,nestjs,redux,linux,mongodb,mysql,postgres,aws,vue,angular,gcp,git,vercel,netlify,jest,py,prisma,heroku,electron,docker)](https://skillicons.dev)
 
 #### Never stop learning!
 
